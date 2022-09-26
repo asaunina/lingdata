@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T20:49:03+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/PRO/Downloads/videoplayback (online-video-cutter.com).mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../Downloads/videoplayback (online-video-cutter.com).mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:0b9d36e7-fcbb-4ea3-8d0e-609b811bb92e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">44</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="7550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="13410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="15090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="19690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="20050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="20435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="25045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="25935"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="30155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="31090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="32340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="32640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="34010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="35040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="35590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="36300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="38330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="40980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="44330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="46330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="49870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="50205"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="52395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="52625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="54405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="54700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="56510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="57050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="60430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="60845"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="62645"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="62910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="63650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="64505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="66765"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="70790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="73780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="75820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="76090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="76990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="79220"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Анастасия Саунина" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="ivz1974m" TIER_ID="utterance@ivz1974m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>теперь мы переходим к новой теме / расстройства / сознания //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>расстройства / сознания //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>и //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>сначала я / несколько / общих слов / по поводу сознания скажу //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>когда мы будем говорить о расстройствах сознания // мы будем иметь в виду //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>под сознанием //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>в первую очередь //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ааа //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>возможность / человека //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>контактировать с предметным / миром и с другими людьми //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>то есть возможность взаимодействия с предметным / миром //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>и с другими людьми / вот то что мы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>прежде всего имеем в виду //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>когда говорим о сознании //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>возможность взаимодействия с / предметным миром //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>и / с / другими людьми //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>почему //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>мы это имеем в виду ? // потому что //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>быть в сознании / значит обладать системой значений //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>так //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>или / видеть мир осмысленно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Анастасия Саунина"
+        LINGUISTIC_TYPE_REF="translation"
+        PARENT_REF="utterance@ivz1974m" PARTICIPANT="ivz1974m" TIER_ID="translation@ivz1974m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Now we are moving on to a new topic, disorders of consciousness.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Disorders of consciousness.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>And...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>At first, I will say a few general words about consciousness</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>When we are going to talk about disorders of consciousness, we are going to mean...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>by consciousness,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>first of all.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>uhh,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>a human's ability...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>to contact with the objetive world and with other people.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>That means that the ability of interaction with the objective world...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>and with other people is something that we...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>primarily mean...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>when speaking about consciousness.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>The ability of interaction with the objective world... </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>and with other people.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Why...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>do we mean this? Because...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>being conscious means having a system of meanings.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>So.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Or to see the world meaningfully.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
